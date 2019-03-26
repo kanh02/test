@@ -1,0 +1,27 @@
+      .container {
+            margin: 0 auto;
+        }
+ 
+        .block {
+            display: inline-block;
+            position: relative;
+            border: 1px solid black;
+            text-align: center;
+            font-size: 18px;
+            width: 30px;
+        }
+ 
+        .divblock {
+            text-align: center;
+            vertical-align: middle;
+        }
+ 
+        #triangulo {
+            margin: 0 auto;
+            text-align: center;
+        }
+ 
+        .block{
+            background: yellow;
+        }
+ 
